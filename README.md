@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **kamalrabbi29@gmail.com**
 
+### Profile Visitors 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mr-x-virus404.visitor-badge&left_color=blue&right_color=yellow)
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mr.bloody.vartaul.king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.bloody.vartaul.king" height="30" width="40" /></a>
